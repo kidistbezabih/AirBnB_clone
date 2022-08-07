@@ -86,6 +86,6 @@ word': 'root', 'updated_at': datetime.datetime(2017, 1, 15, 18, 50, 13, 939585)}
 #### Directory: models/engine/
 - <b>file_storage.py</b>: The FileStorage class, used to load/save classes based on BaseModel. Files are loaded/saved from a .json file as JSON representations of the class.
 
-### Authors
-Haylemicheal Berihun Mekonnen
-Kidist Bezabih Wakgari
+## Authors
+* Haylemicheal Berihun [Github](https://github.com/Haylemicheal) || [Linkedin](https://www.linkedin.com/in/haylemicheal-berihun-a20320aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEIJldyX4Qxew5X2v0YSHzw%3D%3D)
+* Kidist Bezabih [Github](https://github.com/kidistbezabih)
